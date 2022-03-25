@@ -1,8 +1,8 @@
 ### Olá!! Eu sou o Luis Otavio 😁
 
 - 🌱 Estudando e me aprofundando em Python | Html | CSS | Bootstrap | JavaScript;
-- 🤔 Eu procuro ajudar com soluções para o dia a dia e tambem no desenvolvimento de softwares e sites;
-- 💬 Eu sou o Luis Otavio. Tenho 22 anos e sou de interior de São Paulo, na cidade de Palmital/SP;
+- 🤔 Eu procuro ajudar com soluções para o dia a dia e no desenvolvimento de softwares e sites;
+- 💬 Eu sou o Luis Otavio. Tenho 22 anos e sou do interior de São Paulo, cidade de Palmital/SP;
 - 🎓 Análise e Desenvolvimento de Sistemas - Fatec Ourinhos/SP;
 - 📫 Gmail: luisptavio.l.p@gmail.com | 🟣Instagram: @luiss.longo;
 - 😄 Pronouns: ele/dele;
