@@ -1,4 +1,4 @@
-### Olá, Eu sou o Luis Otavio
+### Olá!! Eu sou o Luis Otavio 😁
 
 - 🌱 Estudando e me aprofundando em Python | Html | CSS | Bootstrap | JavaScript;
 - 🤔 Eu procuro ajudar com soluções para o dia a dia e tambem no desenvolvimento de softwares e sites;
