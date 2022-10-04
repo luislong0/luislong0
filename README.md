@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Luis Otavio 😁
 
-- 🌱 Conhecimento: HTML | CSS | JavaScript | MySql | Python | ...
+- 🌱 Conhecimento: HTML | CSS | JavaScript | MySql | ReactJS | NodeJS | Typescript | React-Native ...
 - 🤔 Eu procuro ajudar com soluções para o dia a dia e no desenvolvimento de softwares e sites;
 - 💬 Eu sou o Luis Otavio. Tenho 22 anos e sou do interior de São Paulo, cidade de Palmital/SP;
 - 🎓 Análise e Desenvolvimento de Sistemas - Fatec Ourinhos/SP;
