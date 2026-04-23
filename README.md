@@ -1,41 +1,62 @@
-### Olá!! Eu sou o Luis Otavio 😁
+# 👋 Olá, eu sou o Luis Otávio
 
-- 🌱 Conhecimento: HTML | CSS | JavaScript | MySql | ReactJS | NodeJS | Typescript | React-Native ...
-- 🤔 Eu procuro ajudar com soluções para o dia a dia e no desenvolvimento de softwares e sites;
-- 💬 Eu sou o Luis Otavio. Tenho 22 anos e sou do interior de São Paulo, cidade de Palmital/SP;
-- 🎓 Análise e Desenvolvimento de Sistemas - Fatec Ourinhos/SP;
-- 📫 Gmail: luisptavio.l.p@gmail.com | 🟣Instagram: @luiss.longo;
-- 😄 Pronouns: ele/dele;
+💻 Desenvolvedor Full Stack focado em aplicações web e mobile  
+🚀 Apaixonado por tecnologia, performance e soluções práticas para o dia a dia  
+📍 Palmital - SP, Brasil  
+
+---
+
+## 🧠 Sobre mim
+
+Sou desenvolvedor com foco em criar soluções modernas, funcionais e escaláveis.  
+Atuo tanto no frontend quanto no backend, sempre buscando código limpo, organização e boas práticas.
+
+🎓 Análise e Desenvolvimento de Sistemas - Fatec Ourinhos  
+
+---
+
+## ⚙️ Tecnologias e Ferramentas
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- ReactJS
+- Electron
+
+### Backend
+- Node.js
+- Nest
+- APIs REST
+- MySQL
+
+### Mobile
+- React Native
+- Expo
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
   <a href="https://github.com/luislong0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luislong0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luislong0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
-<div style="display: inline_block"><br>
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  |
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
-  <img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/p0kz7NOqxTkAAAAM/kaito-typing.gif">
-          
-</div>
-  
-  ##
-  
-<div> 
-  <a href="https://www.instagram.com/luiss.longo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://api.whatsapp.com/send?phone=5518996665180&text=Ol%C3%A1%2C%20vem%20pelo%20seu%20Github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:luisptavio.l.p@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luislong0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-![Snake animation](https://github.com/luislong0/luislong0/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
- 
+---
+
+## 📫 Contato
+
+- 📧 Email: luisptavio.l.p@gmail.com  
+- 📸 Instagram: https://www.instagram.com/luiss.longo  
+- 💼 LinkedIn: https://www.linkedin.com/in/luislong0  
+
+---
+
+## 🧩 Filosofia
+
+> "Código bom não é o que funciona. É o que continua funcionando depois de meses."
+
+---
